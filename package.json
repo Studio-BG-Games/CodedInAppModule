@@ -1,6 +1,6 @@
 {
   "name": "com.bggamesstudioassets.codedinappmodule",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Coded In-App Module",
   "description": "Simplified work with In-app purchasing. This package has dynamic In-App purchases spawn system. Also this package has init system for static in-apps",
   "unity": "2019.1",
