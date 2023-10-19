@@ -2,23 +2,17 @@
   "name": "com.bggamesstudioassets.codedinappmodule",
   "version": "1.0.0",
   "displayName": "Coded In-App Module",
-  "description": "Just example",
+  "description": "Simplified work with In-app purchasing. This package has dynamic In-App purchases spawn system. Also this package has init system for static in-apps",
   "unity": "2019.1",
-  "documentationUrl": "https://example.com/",
-  "changelogUrl": "https://example.com/changelog.html",
-  "licensesUrl": "https://example.com/licensing.html",
+  "documentationUrl": "https://coda.io/d/_d3xeysJyzgS/Documentation-coded-In-app-module_su3oQ",
+  "changelogUrl": "https://github.com/Studio-BG-Games/CodedInAppModule/releases",
   "dependencies": {
     "com.unity.purchasing": "4.10.0"
   },
-  "keywords": [
-    "keyword1",
-    "keyword2",
-    "keyword3"
-  ],
   "author": {
-    "name": "BGGames Studio",
-    "email": "unity@example.com",
-    "url": "https://www.unity3d.com"
+    "name": "BGGames studio",
+    "email": "bg.games.github@gmail.com",
+    "url": "https://bg-games.com.ua/"
   },
   "unityRelease": "0b5",
   "samples": [
